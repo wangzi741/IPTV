@@ -1,0 +1,1442 @@
+#EXTM3U
+#EXTINF:-1 group-title="央视频道" tvg-logo="https://livecdn.zbds.org/logo/CCTV1高清.png",CCTV1高清
+rtp://225.1.2.47:10276
+#EXTINF:-1 group-title="央视频道" tvg-logo="https://livecdn.zbds.org/logo/CCTV2高清.png",CCTV2高清
+rtp://225.1.2.78:10462
+#EXTINF:-1 group-title="央视频道" tvg-logo="https://livecdn.zbds.org/logo/CCTV3高清.png",CCTV3高清
+rtp://225.1.2.141:10864
+#EXTINF:-1 group-title="央视频道" tvg-logo="https://livecdn.zbds.org/logo/CCTV4高清.png",CCTV4高清
+rtp://225.1.2.197:11806
+#EXTINF:-1 group-title="央视频道" tvg-logo="https://livecdn.zbds.org/logo/CCTV5高清.png",CCTV5高清
+rtp://225.1.2.142:10870
+#EXTINF:-1 group-title="央视频道" tvg-logo="https://livecdn.zbds.org/logo/CCTV6高清.png",CCTV6高清
+rtp://225.1.2.143:10876
+#EXTINF:-1 group-title="央视频道" tvg-logo="https://livecdn.zbds.org/logo/CCTV7高清.png",CCTV7高清
+rtp://225.1.2.79:10468
+#EXTINF:-1 group-title="央视频道" tvg-logo="https://livecdn.zbds.org/logo/CCTV8高清.png",CCTV8高清
+rtp://225.1.2.144:10882
+#EXTINF:-1 group-title="央视频道" tvg-logo="https://livecdn.zbds.org/logo/CCTV9高清.png",CCTV9高清
+rtp://225.1.2.80:10474
+#EXTINF:-1 group-title="央视频道" tvg-logo="https://livecdn.zbds.org/logo/CCTV10高清.png",CCTV10高清
+rtp://225.1.2.81:10480
+#EXTINF:-1 group-title="央视频道" tvg-logo="https://livecdn.zbds.org/logo/CCTV11高清.png",CCTV11高清
+rtp://225.1.2.220:11434
+#EXTINF:-1 group-title="央视频道" tvg-logo="https://livecdn.zbds.org/logo/CCTV12高清.png",CCTV12高清
+rtp://225.1.2.82:10486
+#EXTINF:-1 group-title="央视频道" tvg-logo="https://livecdn.zbds.org/logo/CCTV13高清.png",CCTV13高清
+rtp://225.1.2.74:11584
+#EXTINF:-1 group-title="央视频道" tvg-logo="https://livecdn.zbds.org/logo/CCTV14高清.png",CCTV14高清
+rtp://225.1.2.83:10492
+#EXTINF:-1 group-title="央视频道" tvg-logo="https://livecdn.zbds.org/logo/CCTV15高清.png",CCTV15高清
+rtp://225.1.2.221:11440
+#EXTINF:-1 group-title="央视频道" tvg-logo="https://livecdn.zbds.org/logo/CCTV17高清.png",CCTV17高清
+rtp://225.1.2.53:10312
+#EXTINF:-1 group-title="央视频道" tvg-logo="https://livecdn.zbds.org/logo/CCTV5高清.png",CCTV5高清
+rtp://225.1.2.48:10282
+#EXTINF:-1 group-title="央视频道" tvg-logo="https://livecdn.zbds.org/logo/CCTV4K超高清.png",CCTV4K超高清
+rtp://225.1.2.245:11932
+#EXTINF:-1 group-title="卫视频道" tvg-logo="https://livecdn.zbds.org/logo/安阳新闻综合.png",安阳新闻综合
+rtp://225.1.2.118:10726
+#EXTINF:-1 group-title="卫视频道" tvg-logo="https://livecdn.zbds.org/logo/安阳文旅频道.png",安阳文旅频道
+rtp://225.1.2.134:10822
+#EXTINF:-1 group-title="卫视频道" tvg-logo="https://livecdn.zbds.org/logo/河南都市频道.png",河南都市频道
+rtp://225.1.2.56:10330
+#EXTINF:-1 group-title="卫视频道" tvg-logo="https://livecdn.zbds.org/logo/河南民生频道.png",河南民生频道
+rtp://225.1.2.57:10336
+#EXTINF:-1 group-title="卫视频道" tvg-logo="https://livecdn.zbds.org/logo/河南法治频道.png",河南法治频道
+rtp://225.1.2.58:10342
+#EXTINF:-1 group-title="卫视频道" tvg-logo="https://livecdn.zbds.org/logo/河南电视剧频道.png",河南电视剧频道
+rtp://225.1.2.59:10348
+#EXTINF:-1 group-title="卫视频道" tvg-logo="https://livecdn.zbds.org/logo/河南新闻频道.png",河南新闻频道
+rtp://225.1.2.60:10354
+#EXTINF:-1 group-title="卫视频道" tvg-logo="https://livecdn.zbds.org/logo/河南欢腾购物.png",河南欢腾购物
+rtp://225.1.2.61:10360
+#EXTINF:-1 group-title="卫视频道" tvg-logo="https://livecdn.zbds.org/logo/河南公共频道.png",河南公共频道
+rtp://225.1.2.62:10366
+#EXTINF:-1 group-title="卫视频道" tvg-logo="https://livecdn.zbds.org/logo/河南乡村频道.png",河南乡村频道
+rtp://225.1.2.104:10618
+#EXTINF:-1 group-title="卫视频道" tvg-logo="https://livecdn.zbds.org/logo/河南文物宝库.png",河南文物宝库
+rtp://225.1.2.101:10600
+#EXTINF:-1 group-title="卫视频道" tvg-logo="https://livecdn.zbds.org/logo/河南梨园频道.png",河南梨园频道
+rtp://225.1.2.100:10594
+#EXTINF:-1 group-title="卫视频道" tvg-logo="https://livecdn.zbds.org/logo/河南武术世界.png",河南武术世界
+rtp://225.1.2.102:10606
+#EXTINF:-1 group-title="卫视频道" tvg-logo="https://livecdn.zbds.org/logo/河南移动电视.png",河南移动电视
+rtp://225.1.2.190:11866
+#EXTINF:-1 group-title="卫视频道" tvg-logo="https://livecdn.zbds.org/logo/国学频道.png",国学频道
+rtp://225.1.2.129:11674
+#EXTINF:-1 group-title="卫视频道" tvg-logo="https://livecdn.zbds.org/logo/河南卫视高清.png",河南卫视高清
+rtp://225.1.2.99:10588
+#EXTINF:-1 group-title="卫视频道" tvg-logo="https://livecdn.zbds.org/logo/爱体育高清.png",爱体育高清
+rtp://225.1.2.153:10936
+#EXTINF:-1 group-title="卫视频道" tvg-logo="https://livecdn.zbds.org/logo/江西卫视高清.png",江西卫视高清
+rtp://225.1.2.77:11602
+#EXTINF:-1 group-title="卫视频道" tvg-logo="https://livecdn.zbds.org/logo/北京卫视4K.png",北京卫视4K
+rtp://225.1.2.148:11944
+#EXTINF:-1 group-title="卫视频道" tvg-logo="https://livecdn.zbds.org/logo/东方卫视4K.png",东方卫视4K
+rtp://225.1.2.208:11968
+#EXTINF:-1 group-title="卫视频道" tvg-logo="https://livecdn.zbds.org/logo/江苏卫视4K.png",江苏卫视4K
+rtp://225.1.2.209:11974
+#EXTINF:-1 group-title="卫视频道" tvg-logo="https://livecdn.zbds.org/logo/浙江卫视4K.png",浙江卫视4K
+rtp://225.1.2.212:11980
+#EXTINF:-1 group-title="卫视频道" tvg-logo="https://livecdn.zbds.org/logo/山东卫视4K.png",山东卫视4K
+rtp://225.1.2.216:11986
+#EXTINF:-1 group-title="卫视频道" tvg-logo="https://livecdn.zbds.org/logo/湖南卫视4K.png",湖南卫视4K
+rtp://225.1.2.218:11992
+#EXTINF:-1 group-title="卫视频道" tvg-logo="https://livecdn.zbds.org/logo/四川卫视4K.png",四川卫视4K
+rtp://225.1.2.227:11998
+#EXTINF:-1 group-title="卫视频道" tvg-logo="https://livecdn.zbds.org/logo/好享购物.png",好享购物
+rtp://225.1.2.231:11500
+#EXTINF:-1 group-title="卫视频道" tvg-logo="https://livecdn.zbds.org/logo/深圳卫视4K.png",深圳卫视4K
+rtp://225.1.2.178:11956
+#EXTINF:-1 group-title="卫视频道" tvg-logo="https://livecdn.zbds.org/logo/广东卫视4K.png",广东卫视4K
+rtp://225.1.2.179:11962
+#EXTINF:-1 group-title="卫视频道" tvg-logo="https://livecdn.zbds.org/logo/内黄综合.png",内黄综合
+rtp://225.1.2.224:11458
+#EXTINF:-1 group-title="卫视频道" tvg-logo="https://livecdn.zbds.org/logo/河南卫视4K.png",河南卫视4K
+rtp://225.1.2.237:11530
+#EXTINF:-1 group-title="卫视频道" tvg-logo="https://livecdn.zbds.org/logo/湖南卫视高清.png",湖南卫视高清
+rtp://225.1.2.50:10294
+#EXTINF:-1 group-title="卫视频道" tvg-logo="https://livecdn.zbds.org/logo/江苏卫视高清.png",江苏卫视高清
+rtp://225.1.2.84:10498
+#EXTINF:-1 group-title="卫视频道" tvg-logo="https://livecdn.zbds.org/logo/浙江卫视高清.png",浙江卫视高清
+rtp://225.1.2.85:10504
+#EXTINF:-1 group-title="卫视频道" tvg-logo="https://livecdn.zbds.org/logo/北京卫视高清.png",北京卫视高清
+rtp://225.1.2.49:10288
+#EXTINF:-1 group-title="卫视频道" tvg-logo="https://livecdn.zbds.org/logo/东方卫视高清.png",东方卫视高清
+rtp://225.1.2.86:10510
+#EXTINF:-1 group-title="卫视频道" tvg-logo="https://livecdn.zbds.org/logo/天津卫视高清.png",天津卫视高清
+rtp://225.1.2.87:10516
+#EXTINF:-1 group-title="卫视频道" tvg-logo="https://livecdn.zbds.org/logo/山东卫视高清.png",山东卫视高清
+rtp://225.1.2.89:10528
+#EXTINF:-1 group-title="卫视频道" tvg-logo="https://livecdn.zbds.org/logo/安徽卫视高清.png",安徽卫视高清
+rtp://225.1.2.88:10522
+#EXTINF:-1 group-title="卫视频道" tvg-logo="https://livecdn.zbds.org/logo/深圳卫视高清.png",深圳卫视高清
+rtp://225.1.2.91:10540
+#EXTINF:-1 group-title="卫视频道" tvg-logo="https://livecdn.zbds.org/logo/湖北卫视高清.png",湖北卫视高清
+rtp://225.1.2.90:10534
+#EXTINF:-1 group-title="卫视频道" tvg-logo="https://livecdn.zbds.org/logo/四川卫视高清.png",四川卫视高清
+rtp://225.1.2.108:11626
+#EXTINF:-1 group-title="卫视频道" tvg-logo="https://livecdn.zbds.org/logo/黑龙江卫视高清.png",黑龙江卫视高清
+rtp://225.1.2.92:10546
+#EXTINF:-1 group-title="卫视频道" tvg-logo="https://livecdn.zbds.org/logo/云南卫视高清.png",云南卫视高清
+rtp://225.1.2.76:11596
+#EXTINF:-1 group-title="卫视频道" tvg-logo="https://livecdn.zbds.org/logo/贵州卫视高清.png",贵州卫视高清
+rtp://225.1.2.109:11632
+#EXTINF:-1 group-title="卫视频道" tvg-logo="https://livecdn.zbds.org/logo/辽宁卫视高清.png",辽宁卫视高清
+rtp://225.1.2.152:10930
+#EXTINF:-1 group-title="卫视频道" tvg-logo="https://livecdn.zbds.org/logo/东南卫视高清.png",东南卫视高清
+rtp://225.1.2.226:11470
+#EXTINF:-1 group-title="卫视频道" tvg-logo="https://livecdn.zbds.org/logo/重庆卫视高清.png",重庆卫视高清
+rtp://225.1.2.75:11590
+#EXTINF:-1 group-title="卫视频道" tvg-logo="https://livecdn.zbds.org/logo/广东卫视高清.png",广东卫视高清
+rtp://225.1.2.151:10924
+#EXTINF:-1 group-title="卫视频道" tvg-logo="https://livecdn.zbds.org/logo/广西卫视.png",广西卫视
+rtp://225.1.2.34:10198
+#EXTINF:-1 group-title="卫视频道" tvg-logo="https://livecdn.zbds.org/logo/河北卫视高清.png",河北卫视高清
+rtp://225.1.2.106:11614
+#EXTINF:-1 group-title="卫视频道" tvg-logo="https://livecdn.zbds.org/logo/吉林卫视高清.png",吉林卫视高清
+rtp://225.1.2.105:11608
+#EXTINF:-1 group-title="卫视频道" tvg-logo="https://livecdn.zbds.org/logo/山西卫视.png",山西卫视
+rtp://225.1.2.37:10216
+#EXTINF:-1 group-title="卫视频道" tvg-logo="https://livecdn.zbds.org/logo/陕西卫视.png",陕西卫视
+rtp://225.1.2.36:10210
+#EXTINF:-1 group-title="卫视频道" tvg-logo="https://livecdn.zbds.org/logo/甘肃卫视.png",甘肃卫视
+rtp://225.1.2.44:10258
+#EXTINF:-1 group-title="卫视频道" tvg-logo="https://livecdn.zbds.org/logo/宁夏卫视.png",宁夏卫视
+rtp://225.1.2.41:10240
+#EXTINF:-1 group-title="卫视频道" tvg-logo="https://livecdn.zbds.org/logo/青海卫视.png",青海卫视
+rtp://225.1.2.39:10228
+#EXTINF:-1 group-title="卫视频道" tvg-logo="https://livecdn.zbds.org/logo/内蒙古卫视.png",内蒙古卫视
+rtp://225.1.2.38:10222
+#EXTINF:-1 group-title="卫视频道" tvg-logo="https://livecdn.zbds.org/logo/西藏卫视.png",西藏卫视
+rtp://225.1.2.42:10246
+#EXTINF:-1 group-title="卫视频道" tvg-logo="https://livecdn.zbds.org/logo/新疆卫视.png",新疆卫视
+rtp://225.1.2.43:10252
+#EXTINF:-1 group-title="卫视频道" tvg-logo="https://livecdn.zbds.org/logo/卡酷少儿.png",卡酷少儿
+rtp://225.1.2.45:10264
+#EXTINF:-1 group-title="卫视频道" tvg-logo="https://livecdn.zbds.org/logo/金鹰卡通.png",金鹰卡通
+rtp://225.1.2.46:10270
+#EXTINF:-1 group-title="卫视频道" tvg-logo="https://livecdn.zbds.org/logo/嘉佳卡通.png",嘉佳卡通
+rtp://225.1.2.93:10552
+#EXTINF:-1 group-title="卫视频道" tvg-logo="https://livecdn.zbds.org/logo/中国教育1高清.png",中国教育1高清
+rtp://225.1.2.94:10558
+#EXTINF:-1 group-title="卫视频道" tvg-logo="https://livecdn.zbds.org/logo/中国教育4.png",中国教育4
+rtp://225.1.2.95:10564
+#EXTINF:-1 group-title="卫视频道" tvg-logo="https://livecdn.zbds.org/logo/厦门卫视.png",厦门卫视
+rtp://225.1.2.96:10570
+#EXTINF:-1 group-title="卫视频道" tvg-logo="https://livecdn.zbds.org/logo/金鹰纪实高清.png",金鹰纪实高清
+rtp://225.1.2.97:10576
+#EXTINF:-1 group-title="卫视频道" tvg-logo="https://livecdn.zbds.org/logo/兵团卫视.png",兵团卫视
+rtp://225.1.2.98:10582
+#EXTINF:-1 group-title="卫视频道" tvg-logo="https://livecdn.zbds.org/logo/爱电影.png",爱电影
+rtp://225.1.2.155:10948
+#EXTINF:-1 group-title="卫视频道" tvg-logo="https://livecdn.zbds.org/logo/中国教育2.png",中国教育2
+rtp://225.1.2.149:10912
+#EXTINF:-1 group-title="卫视频道" tvg-logo="https://livecdn.zbds.org/logo/爱上4K.png",爱上4K
+rtp://225.1.2.196:11194
+#EXTINF:-1 group-title="卫视频道" tvg-logo="https://livecdn.zbds.org/logo/山东教育.png",山东教育
+rtp://225.1.2.150:10918
+#EXTINF:-1 group-title="卫视频道" tvg-logo="https://livecdn.zbds.org/logo/三沙卫视.png",三沙卫视
+rtp://225.1.2.225:11464
+#EXTINF:-1 group-title="卫视频道" tvg-logo="https://livecdn.zbds.org/logo/海南卫视高清.png",海南卫视高清
+rtp://225.1.2.107:11620
+#EXTINF:-1 group-title="电影频道" tvg-logo="https://livecdn.zbds.org/logo/CHC家庭影院.png",CHC家庭影院
+rtp://225.1.2.214:11422
+#EXTINF:-1 group-title="电影频道" tvg-logo="https://livecdn.zbds.org/logo/爱综艺.png",爱综艺
+rtp://225.1.2.146:10894
+#EXTINF:-1 group-title="电影频道" tvg-logo="https://livecdn.zbds.org/logo/CHC动作电影.png",CHC动作电影
+rtp://225.1.2.215:11428
+#EXTINF:-1 group-title="电影频道" tvg-logo="https://livecdn.zbds.org/logo/CHC影迷电影.png",CHC影迷电影
+rtp://225.1.2.210:11398
+#EXTINF:-1 group-title="电影频道" tvg-logo="https://livecdn.zbds.org/logo/乒羽频道.png",乒羽频道
+rtp://225.1.2.213:11416
+#EXTINF:-1 group-title="电影频道" tvg-logo="https://livecdn.zbds.org/logo/新动漫.png",新动漫
+rtp://225.1.2.211:11404
+#EXTINF:-1 group-title="电影频道" tvg-logo="https://livecdn.zbds.org/logo/音乐现场.png",音乐现场
+rtp://225.1.2.158:10966
+#EXTINF:-1 group-title="电影频道" tvg-logo="https://livecdn.zbds.org/logo/爱生活.png",爱生活
+rtp://225.1.2.159:10972
+#EXTINF:-1 group-title="电影频道" tvg-logo="https://livecdn.zbds.org/logo/好学生.png",好学生
+rtp://225.1.2.160:10978
+#EXTINF:-1 group-title="电影频道" tvg-logo="https://livecdn.zbds.org/logo/国学.png",国学
+rtp://225.1.2.161:10984
+#EXTINF:-1 group-title="电影频道" tvg-logo="https://livecdn.zbds.org/logo/早教.png",早教
+rtp://225.1.2.162:10990
+#EXTINF:-1 group-title="电影频道" tvg-logo="https://livecdn.zbds.org/logo/高网.png",高网
+rtp://225.1.2.163:10996
+#EXTINF:-1 group-title="电影频道" tvg-logo="https://livecdn.zbds.org/logo/军事.png",军事
+rtp://225.1.2.164:11002
+#EXTINF:-1 group-title="电影频道" tvg-logo="https://livecdn.zbds.org/logo/美妆.png",美妆
+rtp://225.1.2.165:11008
+#EXTINF:-1 group-title="电影频道" tvg-logo="https://livecdn.zbds.org/logo/地理.png",地理
+rtp://225.1.2.166:11014
+#EXTINF:-1 group-title="电影频道" tvg-logo="https://livecdn.zbds.org/logo/经典电影.png",经典电影
+rtp://225.1.2.167:11020
+#EXTINF:-1 group-title="电影频道" tvg-logo="https://livecdn.zbds.org/logo/精选.png",精选
+rtp://225.1.2.236:11524
+#EXTINF:-1 group-title="电影频道" tvg-logo="https://livecdn.zbds.org/logo/足球.png",足球
+rtp://225.1.2.198:11392
+#EXTINF:-1 group-title="电影频道" tvg-logo="https://livecdn.zbds.org/logo/IPTV谍战剧场.png",IPTV谍战剧场
+rtp://225.1.2.168:11026
+#EXTINF:-1 group-title="电影频道" tvg-logo="https://livecdn.zbds.org/logo/IPTV相声小品.png",IPTV相声小品
+rtp://225.1.2.169:11032
+#EXTINF:-1 group-title="电影频道" tvg-logo="https://livecdn.zbds.org/logo/IPTV野外.png",IPTV野外
+rtp://225.1.2.170:11038
+#EXTINF:-1 group-title="电影频道" tvg-logo="https://livecdn.zbds.org/logo/IPTV法治.png",IPTV法治
+rtp://225.1.2.171:11044
+#EXTINF:-1 group-title="电影频道" tvg-logo="https://livecdn.zbds.org/logo/少儿动画.png",少儿动画
+rtp://225.1.2.172:11050
+#EXTINF:-1 group-title="电影频道" tvg-logo="https://livecdn.zbds.org/logo/热播剧场.png",热播剧场
+rtp://225.1.2.173:11056
+#EXTINF:-1 group-title="电影频道" tvg-logo="https://livecdn.zbds.org/logo/爱体育.png",爱体育
+rtp://225.1.2.52:10306
+#EXTINF:-1 group-title="电影频道" tvg-logo="https://livecdn.zbds.org/logo/爱大剧.png",爱大剧
+rtp://225.1.2.51:10300
+
+
+
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/电影八点档.png",电影八点档
+http://live.metshop.top/huya/880261?cdn=alicdn
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/电影刘德华.png",电影刘德华
+http://live.metshop.top/huya/11342424?cdn=alicdn
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/电影功夫片.png",电影功夫片
+http://live.metshop.top/huya/11352941?cdn=alicdn
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/电影动作电影.png",电影动作电影
+http://live.metshop.top/huya/11602077?cdn=alicdn
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/电影周星星.png",电影周星星
+http://live.metshop.top/huya/11336587?cdn=alicdn
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/电影嫣然影厅.png",电影嫣然影厅
+http://live.metshop.top/huya/11601977?cdn=alicdn
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/电影战争片.png",电影战争片
+http://live.metshop.top/huya/21059574?cdn=alicdn
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/电影搞笑喜剧.png",电影搞笑喜剧
+http://live.metshop.top/huya/11342423?cdn=alicdn
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/电影梁家辉.png",电影梁家辉
+http://live.metshop.top/huya/11342429?cdn=alicdn
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/电影犯罪片.png",电影犯罪片
+http://live.metshop.top/huya/11352974?cdn=alicdn
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/电影蜘蛛侠.png",电影蜘蛛侠
+http://live.metshop.top/huya/21059599?cdn=alicdn
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/电影谍战片.png",电影谍战片
+http://live.metshop.top/huya/21059587?cdn=alicdn
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/电影贺岁.png",电影贺岁
+http://live.metshop.top/huya/11601971?cdn=alicdn
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/辽宁影视剧.png",辽宁影视剧
+http://120.76.248.139/live/bfgd/4200000070.m3u8
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/龙门飞甲.png",龙门飞甲
+http://jsmov2.a.yximgs.com/bs3/video-hls/5203346449046555193_hlsb.m3u8
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/读心神探.png",读心神探
+https://live.ottiptv.cc/yy/1382736875
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/举起手来-惊险抗日.png",举起手来-惊险抗日
+https://live.ottiptv.cc/yy/1382736877
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/黑衣人1、2—动作喜剧大片.png",黑衣人1、2—动作喜剧大片
+https://live.ottiptv.cc/yy/1354930936
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/超精彩武打场景.png",超精彩武打场景
+https://live.ottiptv.cc/yy/1354936131
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/漫威十年老粉福利来了.png",漫威十年老粉福利来了
+https://live.ottiptv.cc/yy/1354930233
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/鹿鼎记-周星驰版.png",鹿鼎记-周星驰版
+https://live.ottiptv.cc/yy/1354658049
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/地下交通站.png",地下交通站
+https://live.ottiptv.cc/yy/1382736795
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/国内玄幻电影-林正英.png",国内玄幻电影-林正英
+https://live.ottiptv.cc/yy/1354932444
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/我爱我家.png",我爱我家
+https://live.ottiptv.cc/yy/1382735557
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/YY用户.png",YY用户
+https://live.ottiptv.cc/yy/1382736807
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/康熙王朝.png",康熙王朝
+https://live.ottiptv.cc/yy/1382851583
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/绝对让你笑翻天！.png",绝对让你笑翻天！
+https://live.ottiptv.cc/yy/1354936159
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/士兵突击.png",士兵突击
+https://live.ottiptv.cc/yy/1382851600
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/智取威虎山.png",智取威虎山
+https://live.ottiptv.cc/yy/1382736843
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/宰相刘罗锅.png",宰相刘罗锅
+https://live.ottiptv.cc/yy/1382745191
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/夏洛特烦恼-国内电影-喜剧.png",夏洛特烦恼-国内电影-喜剧
+https://live.ottiptv.cc/yy/1354936201
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/�逋鞠盗�-国产喜剧.png",�逋鞠盗�-国产喜剧
+https://live.ottiptv.cc/yy/1382736856
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/正阳门下.png",正阳门下
+https://live.ottiptv.cc/yy/1354931580
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/变形金刚.png",变形金刚
+https://live.ottiptv.cc/yy/1382736803
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/精武英雄-李连杰主演经典动作片.png",精武英雄-李连杰主演经典动作片
+https://live.ottiptv.cc/yy/1382736873
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/内在美-伊人有约.png",内在美-伊人有约
+https://live.ottiptv.cc/yy/1382737892
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/炊事班的故事III.png",炊事班的故事III
+https://live.ottiptv.cc/yy/1382736716
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/神探狄仁杰1.png",神探狄仁杰1
+https://live.ottiptv.cc/yy/1382851575
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/洪金宝福星系列.png",洪金宝福星系列
+https://live.ottiptv.cc/yy/1354924839
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/宫心计-港剧-古装.png",宫心计-港剧-古装
+https://live.ottiptv.cc/yy/1354933540
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/欢乐颂.png",欢乐颂
+https://live.ottiptv.cc/yy/1382735624
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/大家都在看的电视剧.png",大家都在看的电视剧
+https://live.ottiptv.cc/yy/1354930964
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/情满四合院.png",情满四合院
+https://live.ottiptv.cc/yy/1382851524
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/父母爱情.png",父母爱情
+https://live.ottiptv.cc/yy/1382851594
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/啊咧.png",啊咧
+https://live.ottiptv.cc/yy/1459243913
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/叶问全集.png",叶问全集
+https://live.ottiptv.cc/yy/1382828771
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/华子系列.png",华子系列
+https://live.ottiptv.cc/yy/1354888726
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/法证先锋.png",法证先锋
+https://live.ottiptv.cc/yy/1382851599
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/缺宅男女-精彩港剧.png",缺宅男女-精彩港剧
+https://live.ottiptv.cc/yy/1382745088
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/父母爱情.png",父母爱情
+https://live.ottiptv.cc/yy/1354926650
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/情满四合院-小人物的悲欢离合.png",情满四合院-小人物的悲欢离合
+https://live.ottiptv.cc/yy/1382851601
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/二号交通站.png",二号交通站
+https://live.ottiptv.cc/yy/1382735582
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/三国演义94年经典版.png",三国演义94年经典版
+https://live.ottiptv.cc/yy/1354936241
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/恋歌.png",恋歌
+https://live.ottiptv.cc/yy/1382746276
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/震撼！国内功夫大片.png",震撼！国内功夫大片
+https://live.ottiptv.cc/yy/1382736902
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/正阳门下.png",正阳门下
+https://live.ottiptv.cc/yy/1382851588
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/新白娘子传奇-女神赵雅芝.png",新白娘子传奇-女神赵雅芝
+https://live.ottiptv.cc/yy/1354930969
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/成龙系列.png",成龙系列
+https://live.ottiptv.cc/yy/1354888751
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/双月之城-国漫.png",双月之城-国漫
+https://live.ottiptv.cc/yy/1382736907
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/YY用户.png",YY用户
+https://live.ottiptv.cc/yy/1382736818
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/赌神-发哥.png",赌神-发哥
+https://live.ottiptv.cc/yy/1354889044
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/神探狄仁杰2.png",神探狄仁杰2
+https://live.ottiptv.cc/yy/1382828767
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/大话西游至尊宝.png",大话西游至尊宝
+https://live.ottiptv.cc/yy/1382851590
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/法证先锋.png",法证先锋
+https://live.ottiptv.cc/yy/1354930939
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/欢乐集结号-每天笑不停.png",欢乐集结号-每天笑不停
+https://live.ottiptv.cc/yy/1382741642
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/少年包青天第三部.png",少年包青天第三部
+https://live.ottiptv.cc/yy/1382736814
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/郝蕾演绎-情满四合院.png",郝蕾演绎-情满四合院
+https://live.ottiptv.cc/yy/1382745089
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/炊事班的故事II.png",炊事班的故事II
+https://live.ottiptv.cc/yy/1382851579
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/少年包青天第三部.png",少年包青天第三部
+https://live.ottiptv.cc/yy/1382851540
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/寻秦记-穿越剧经典.png",寻秦记-穿越剧经典
+https://live.ottiptv.cc/yy/1382749900
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/YY用户.png",YY用户
+https://live.ottiptv.cc/yy/1382736885
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/熊出没之探险日记S1-国漫.png",熊出没之探险日记S1-国漫
+https://live.ottiptv.cc/yy/1354930977
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/我的前半生.png",我的前半生
+https://live.ottiptv.cc/yy/1382735564
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/YY用户.png",YY用户
+https://live.ottiptv.cc/yy/1382736838
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/流行古装剧—知否知否应是绿肥红瘦.png",流行古装剧—知否知否应是绿肥红瘦
+https://live.ottiptv.cc/yy/1354936134
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/仙剑奇侠传-神仙姐姐驾到.png",仙剑奇侠传-神仙姐姐驾到
+https://live.ottiptv.cc/yy/1382749903
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/娆�涔�棰�.png",娆�涔�棰�
+https://live.ottiptv.cc/yy/1382851577
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/YY用户.png",YY用户
+https://live.ottiptv.cc/yy/1382736890
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/三国演义【1994】.png",三国演义【1994】
+https://live.ottiptv.cc/yy/1354930932
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/YY用户.png",YY用户
+https://live.ottiptv.cc/yy/1382745084
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/经典大片合集.png",经典大片合集
+https://live.ottiptv.cc/yy/1382749895
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/笑傲帮.png",笑傲帮
+https://live.ottiptv.cc/yy/1382735555
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/超精彩！系列动作电影.png",超精彩！系列动作电影
+https://live.ottiptv.cc/yy/1382745096
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/爆笑小品大合集.png",爆笑小品大合集
+https://live.ottiptv.cc/yy/1382736821
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/YY用户.png",YY用户
+https://live.ottiptv.cc/yy/1382745117
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/你的回忆有我吗.png",你的回忆有我吗
+https://live.ottiptv.cc/yy/1354889024
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/中国味道 第4季-美食纪录片.png",中国味道 第4季-美食纪录片
+https://live.ottiptv.cc/yy/1382736845
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/金牌配角达叔系列.png",金牌配角达叔系列
+https://live.ottiptv.cc/yy/1354888728
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/公主嫁到.png",公主嫁到
+https://live.ottiptv.cc/yy/1382736915
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/二号交通站.png",二号交通站
+https://live.ottiptv.cc/yy/1382851582
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/情满四合院-高分电视剧.png",情满四合院-高分电视剧
+https://live.ottiptv.cc/yy/1382735541
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/国内经典动作电影.png",国内经典动作电影
+https://live.ottiptv.cc/yy/1382851522
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/张国荣与周润发的兄弟情.png",张国荣与周润发的兄弟情
+https://live.ottiptv.cc/yy/1354930961
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/陪你一起看好剧.png",陪你一起看好剧
+https://live.ottiptv.cc/yy/1354932359
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/岳云鹏宋小宝也来演电影了？.png",岳云鹏宋小宝也来演电影了？
+https://live.ottiptv.cc/yy/1354926612
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/伪装者.png",伪装者
+https://live.ottiptv.cc/yy/1354936244
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/二号交通站.png",二号交通站
+https://live.ottiptv.cc/yy/1354930965
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/妖神记之黑狱篇.png",妖神记之黑狱篇
+https://live.ottiptv.cc/yy/1382745173
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/速度与激情系列！-精彩大片.png",速度与激情系列！-精彩大片
+https://live.ottiptv.cc/yy/1382736911
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/我的体育老师.png",我的体育老师
+https://live.ottiptv.cc/yy/1382745169
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/天道-9.2高分好剧.png",天道-9.2高分好剧
+https://live.ottiptv.cc/yy/1382735574
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/你最爱的宋小宝.png",你最爱的宋小宝
+https://live.ottiptv.cc/yy/1354936198
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/魔幻手机.png",魔幻手机
+https://live.ottiptv.cc/yy/1382735544
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/妖神记.png",妖神记
+https://live.ottiptv.cc/yy/1382745171
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/西游记后传.png",西游记后传
+https://live.ottiptv.cc/yy/1382736846
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/神探狄仁杰1.png",神探狄仁杰1
+https://live.ottiptv.cc/yy/1354930934
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/大进军全集：红色系列电影.png",大进军全集：红色系列电影
+https://live.ottiptv.cc/yy/1382745083
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/读心神探.png",读心神探
+https://live.ottiptv.cc/yy/1382851589
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/北京爱情故事，心动不打烊.png",北京爱情故事，心动不打烊
+https://live.ottiptv.cc/yy/1382744423
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/欢乐一起看.png",欢乐一起看
+https://live.ottiptv.cc/yy/1354930926
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/速度与激情全集.png",速度与激情全集
+https://live.ottiptv.cc/yy/1382749892
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/老广的味道-美食之旅.png",老广的味道-美食之旅
+https://live.ottiptv.cc/yy/1354932375
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/院线动作大片.png",院线动作大片
+https://live.ottiptv.cc/yy/1382736900
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/����������.png",����������
+https://live.ottiptv.cc/yy/1382851578
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/情满四合院.png",情满四合院
+https://live.ottiptv.cc/yy/1382736848
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/YY用户.png",YY用户
+https://live.ottiptv.cc/yy/1382745085
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/欢乐集结号3.png",欢乐集结号3
+https://live.ottiptv.cc/yy/1382736822
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/妖神记-全集.png",妖神记-全集
+https://live.ottiptv.cc/yy/1382735551
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/这部剧你居然没看过？.png",这部剧你居然没看过？
+https://live.ottiptv.cc/yy/1354932355
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/伪装者.png",伪装者
+https://live.ottiptv.cc/yy/1382851593
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/寻秦记.png",寻秦记
+https://live.ottiptv.cc/yy/1354658048
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/国内动作大片.png",国内动作大片
+https://live.ottiptv.cc/yy/1382745176
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/老广的味道 第3季-美食纪录片.png",老广的味道 第3季-美食纪录片
+https://live.ottiptv.cc/yy/1382735565
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/亲爱的热爱的.png",亲爱的热爱的
+https://live.ottiptv.cc/yy/1354932433
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/炊事班的故事.png",炊事班的故事
+https://live.ottiptv.cc/yy/1382749901
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/神探狄仁杰2.png",神探狄仁杰2
+https://live.ottiptv.cc/yy/1382851146
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/易中天品三国.png",易中天品三国
+https://live.ottiptv.cc/yy/1354931498
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/终结者2：审判日.png",终结者2：审判日
+https://live.ottiptv.cc/yy/1382851148
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/穿越时空的爱恋.png",穿越时空的爱恋
+https://live.ottiptv.cc/yy/1382735567
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/非常保镖-经典港剧.png",非常保镖-经典港剧
+https://live.ottiptv.cc/yy/1382736903
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/YY用户.png",YY用户
+https://live.ottiptv.cc/yy/1382736886
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/欢乐集结号.png",欢乐集结号
+https://live.ottiptv.cc/yy/1382735550
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/宫锁珠帘.png",宫锁珠帘
+https://live.ottiptv.cc/yy/1354926666
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/保护我家蓉儿.png",保护我家蓉儿
+https://live.ottiptv.cc/yy/1370293254
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/刑事侦缉档案I.png",刑事侦缉档案I
+https://live.ottiptv.cc/yy/1382851585
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/陈情令.png",陈情令
+https://live.ottiptv.cc/yy/1382745121
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/YY用户.png",YY用户
+https://live.ottiptv.cc/yy/1382736888
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/哈利波特全集.png",哈利波特全集
+https://live.ottiptv.cc/yy/1382745105
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/灌篮高手.png",灌篮高手
+https://live.ottiptv.cc/yy/1382735626
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/以家人之名.png",以家人之名
+https://live.ottiptv.cc/yy/1382736908
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/真心想让你幸福.png",真心想让你幸福
+https://live.ottiptv.cc/yy/1382736876
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/功夫小子进城.png",功夫小子进城
+https://live.ottiptv.cc/yy/1382749890
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/YY用户.png",YY用户
+https://live.ottiptv.cc/yy/1382736975
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/强悍“杀猪婆”的励志人生.png",强悍“杀猪婆”的励志人生
+https://live.ottiptv.cc/yy/1354658062
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/风筝.png",风筝
+https://live.ottiptv.cc/yy/1382828770
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/YY用户.png",YY用户
+https://live.ottiptv.cc/yy/1382736805
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/无敌县令.png",无敌县令
+https://live.ottiptv.cc/yy/1354932390
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/野山鹰-影视剧.png",野山鹰-影视剧
+https://live.ottiptv.cc/yy/1354932395
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/寻秦记-穿越剧经典.png",寻秦记-穿越剧经典
+https://live.ottiptv.cc/yy/1382851591
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/史诗级科幻电影-阿凡达.png",史诗级科幻电影-阿凡达
+https://live.ottiptv.cc/yy/1382735577
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/精彩动作电影享不停.png",精彩动作电影享不停
+https://live.ottiptv.cc/yy/1382736809
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/回家的诱惑.png",回家的诱惑
+https://live.ottiptv.cc/yy/1354658043
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/侏罗纪世界-国外科幻大片合集.png",侏罗纪世界-国外科幻大片合集
+https://live.ottiptv.cc/yy/1382736851
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/甜甜的恋爱 这狗粮我吃了.png",甜甜的恋爱 这狗粮我吃了
+https://live.ottiptv.cc/yy/1354932438
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/YY用户.png",YY用户
+https://live.ottiptv.cc/yy/1382735578
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/大汉贤后卫子夫.png",大汉贤后卫子夫
+https://live.ottiptv.cc/yy/1382735569
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/密子君.png",密子君
+https://live.ottiptv.cc/yy/1382736717
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/金玉满堂：精彩港剧.png",金玉满堂：精彩港剧
+https://live.ottiptv.cc/yy/1382736881
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/来自星星的你.png",来自星星的你
+https://live.ottiptv.cc/yy/1354930976
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/飞虎之潜行极战.png",飞虎之潜行极战
+https://live.ottiptv.cc/yy/1354932420
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/YY用户.png",YY用户
+https://live.ottiptv.cc/yy/1382736910
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/超燃警匪片.png",超燃警匪片
+https://live.ottiptv.cc/yy/1382735576
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/国产大片电影.png",国产大片电影
+https://live.ottiptv.cc/yy/1354926655
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/复仇者联盟全季.png",复仇者联盟全季
+https://live.ottiptv.cc/yy/1354936167
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/香港院线大片-最新.png",香港院线大片-最新
+https://live.ottiptv.cc/yy/1354936242
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/国内喜剧.png",国内喜剧
+https://live.ottiptv.cc/yy/1382851598
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/海洋幻梦-泰剧.png",海洋幻梦-泰剧
+https://live.ottiptv.cc/yy/1382749889
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/YY用户.png",YY用户
+https://live.ottiptv.cc/yy/1382736842
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/辉煌或疯狂-韩剧.png",辉煌或疯狂-韩剧
+https://live.ottiptv.cc/yy/1382749902
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/周星星系列.png",周星星系列
+https://live.ottiptv.cc/yy/1354888671
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/国外院线动作大片.png",国外院线动作大片
+https://live.ottiptv.cc/yy/1382735570
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/粟裕大将-影视.png",粟裕大将-影视
+https://live.ottiptv.cc/yy/1354926542
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/笑傲江湖 第2季.png",笑傲江湖 第2季
+https://live.ottiptv.cc/yy/1382736914
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/苦乐村官.png",苦乐村官
+https://live.ottiptv.cc/yy/1382736864
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/动作大片-热血开打.png",动作大片-热血开打
+https://live.ottiptv.cc/yy/1354936168
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/电影黑豹.png",电影黑豹
+https://live.ottiptv.cc/yy/1382736816
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/大明王朝.png",大明王朝
+https://live.ottiptv.cc/yy/1382736879
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/本山快乐营.png",本山快乐营
+https://live.ottiptv.cc/yy/1354933529
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/国内高分悬疑剧-风筝.png",国内高分悬疑剧-风筝
+https://live.ottiptv.cc/yy/1354931585
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/魔幻手机.png",魔幻手机
+https://live.ottiptv.cc/yy/1382851541
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/电影百团大战.png",电影百团大战
+https://live.ottiptv.cc/yy/1382736871
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/俺娘田小草.png",俺娘田小草
+https://live.ottiptv.cc/yy/1382741638
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/人生必看的科幻片.png",人生必看的科幻片
+https://live.ottiptv.cc/yy/1382745114
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/小鬼当家-童年回忆.png",小鬼当家-童年回忆
+https://live.ottiptv.cc/yy/1382745104
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/小朋友可爱到家了.png",小朋友可爱到家了
+https://live.ottiptv.cc/yy/1354930887
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/巩汉林春晚小品合集.png",巩汉林春晚小品合集
+https://live.ottiptv.cc/yy/1354889035
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/法国版《家有儿女》治愈所有不开心.png",法国版《家有儿女》治愈所有不开心
+https://live.ottiptv.cc/yy/1382851137
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/港剧-警犬巴打.png",港剧-警犬巴打
+https://live.ottiptv.cc/yy/1354932397
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/叛逆者.png",叛逆者
+https://live.ottiptv.cc/yy/1382736868
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/YY用户.png",YY用户
+https://live.ottiptv.cc/yy/1382735553
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/YY用户.png",YY用户
+https://live.ottiptv.cc/yy/1382745093
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/缺宅男女.png",缺宅男女
+https://live.ottiptv.cc/yy/1354930937
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/笑傲江湖 第1季.png",笑傲江湖 第1季
+https://live.ottiptv.cc/yy/1382749896
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/无厘头的出处.png",无厘头的出处
+https://live.ottiptv.cc/yy/1354930891
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/高分科幻动作片.png",高分科幻动作片
+https://live.ottiptv.cc/yy/1382749948
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/最美的青春.png",最美的青春
+https://live.ottiptv.cc/yy/1382745116
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/YY用户.png",YY用户
+https://live.ottiptv.cc/yy/1382736834
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/重生之超级赛亚人.png",重生之超级赛亚人
+https://live.ottiptv.cc/yy/1354936124
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/科幻片：来看神奇的地球.png",科幻片：来看神奇的地球
+https://live.ottiptv.cc/yy/1354930897
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/爆笑电影！王牌大贱谍2-3.png",爆笑电影！王牌大贱谍2-3
+https://live.ottiptv.cc/yy/1382735556
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/加勒比海盗系列.png",加勒比海盗系列
+https://live.ottiptv.cc/yy/1382749914
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/高分动作大片-热血出击.png",高分动作大片-热血出击
+https://live.ottiptv.cc/yy/1382736909
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/新世界.png",新世界
+https://live.ottiptv.cc/yy/1382736850
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/鸭子天空-翱翔于篮球的梦想.png",鸭子天空-翱翔于篮球的梦想
+https://live.ottiptv.cc/yy/1354930894
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/国产喜剧.png",国产喜剧
+https://live.ottiptv.cc/yy/1382735584
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/国外经典—小鬼当家.png",国外经典—小鬼当家
+https://live.ottiptv.cc/yy/1354658064
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/我爱我家.png",我爱我家
+https://live.ottiptv.cc/yy/1382851580
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/猩球崛起-怪兽片合集.png",猩球崛起-怪兽片合集
+https://live.ottiptv.cc/yy/1354930181
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/深海利剑.png",深海利剑
+https://live.ottiptv.cc/yy/1382736906
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/美国队长史蒂夫.png",美国队长史蒂夫
+https://live.ottiptv.cc/yy/1382736813
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/大江大河2-高分影视推荐.png",大江大河2-高分影视推荐
+https://live.ottiptv.cc/yy/1382736797
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/田园生活.png",田园生活
+https://live.ottiptv.cc/yy/1382736898
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/第8号当铺.png",第8号当铺
+https://live.ottiptv.cc/yy/1382736905
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/大唐双龙传.png",大唐双龙传
+https://live.ottiptv.cc/yy/1354930979
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/欢乐集结号.png",欢乐集结号
+https://live.ottiptv.cc/yy/1354931582
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/末日系列-外国电影合集.png",末日系列-外国电影合集
+https://live.ottiptv.cc/yy/1354889019
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/精彩动作电影.png",精彩动作电影
+https://live.ottiptv.cc/yy/1382736823
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/本山快乐营-爆笑小品.png",本山快乐营-爆笑小品
+https://live.ottiptv.cc/yy/1354930948
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/国内科幻片来袭.png",国内科幻片来袭
+https://live.ottiptv.cc/yy/1354930821
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/萌鸡小队S1-国漫.png",萌鸡小队S1-国漫
+https://live.ottiptv.cc/yy/1382736904
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/福贵.png",福贵
+https://live.ottiptv.cc/yy/1354926537
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/YY用户.png",YY用户
+https://live.ottiptv.cc/yy/1382745113
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/憨豆先生-经典喜剧.png",憨豆先生-经典喜剧
+https://live.ottiptv.cc/yy/1354936239
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/papi酱主演，北漂生活中的爱情与梦想.png",papi酱主演，北漂生活中的爱情与梦想
+https://live.ottiptv.cc/yy/1382745124
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/永远的经典系列.png",永远的经典系列
+https://live.ottiptv.cc/yy/1354930204
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/飓风营救.png",飓风营救
+https://live.ottiptv.cc/yy/1382735547
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/国外黑色喜剧：冷幽默小剧场.png",国外黑色喜剧：冷幽默小剧场
+https://live.ottiptv.cc/yy/1382745175
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/明天和你-韩剧.png",明天和你-韩剧
+https://live.ottiptv.cc/yy/1382749905
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/国内喜剧.png",国内喜剧
+https://live.ottiptv.cc/yy/1382736862
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/单挑荒野第一季.png",单挑荒野第一季
+https://live.ottiptv.cc/yy/1354933535
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/外国科幻大片.png",外国科幻大片
+https://live.ottiptv.cc/yy/1382747628
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/洪大哥系列.png",洪大哥系列
+https://live.ottiptv.cc/yy/1354888743
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/燃爆动作片.png",燃爆动作片
+https://live.ottiptv.cc/yy/1382736801
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/无双花木兰.png",无双花木兰
+https://live.ottiptv.cc/yy/1382749917
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/躺平还是奋斗？搞笑中见真谛.png",躺平还是奋斗？搞笑中见真谛
+https://live.ottiptv.cc/yy/1382851586
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/嘻嘻熙熙.png",嘻嘻熙熙
+https://live.ottiptv.cc/yy/1382735585
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/溏心风暴之家好月圆.png",溏心风暴之家好月圆
+https://live.ottiptv.cc/yy/1354888747
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/国外动作大片.png",国外动作大片
+https://live.ottiptv.cc/yy/1382735540
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/国内喜剧.png",国内喜剧
+https://live.ottiptv.cc/yy/1382735563
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/请回答1988.png",请回答1988
+https://live.ottiptv.cc/yy/1354932362
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/紧急营救.png",紧急营救
+https://live.ottiptv.cc/yy/1354926676
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/毒液：致命守护者.png",毒液：致命守护者
+https://live.ottiptv.cc/yy/1382745095
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/最美的青春.png",最美的青春
+https://live.ottiptv.cc/yy/1382851530
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/超英集结.png",超英集结
+https://live.ottiptv.cc/yy/1382745091
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/神厨小福贵.png",神厨小福贵
+https://live.ottiptv.cc/yy/1382736860
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/国外科幻.png",国外科幻
+https://live.ottiptv.cc/yy/1382736800
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/欢乐集结号2.png",欢乐集结号2
+https://live.ottiptv.cc/yy/1354930919
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/战争与女性.png",战争与女性
+https://live.ottiptv.cc/yy/1382745179
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/大江大河-高分影视推荐.png",大江大河-高分影视推荐
+https://live.ottiptv.cc/yy/1382736806
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/百家讲坛――之明太祖朱元璋.png",百家讲坛――之明太祖朱元璋
+https://live.ottiptv.cc/yy/1354936149
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/河山.png",河山
+https://live.ottiptv.cc/yy/1382749952
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/舌尖上的中国第2季.png",舌尖上的中国第2季
+https://live.ottiptv.cc/yy/1354930943
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/钟馗传说.png",钟馗传说
+https://live.ottiptv.cc/yy/1382736839
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/热门喜剧.png",热门喜剧
+https://live.ottiptv.cc/yy/1354931495
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/国产电影-就是闹着玩的.png",国产电影-就是闹着玩的
+https://live.ottiptv.cc/yy/1354931503
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/国外高分大片.png",国外高分大片
+https://live.ottiptv.cc/yy/1382736867
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/动物世界-领略原始野性.png",动物世界-领略原始野性
+https://live.ottiptv.cc/yy/1382743138
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/YY用户.png",YY用户
+https://live.ottiptv.cc/yy/1382745103
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/藏地密码：秘境探险，悬念拉满.png",藏地密码：秘境探险，悬念拉满
+https://live.ottiptv.cc/yy/1382851576
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/能耐大了第1季.png",能耐大了第1季
+https://live.ottiptv.cc/yy/1354930195
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/科幻惊悚片-异形.png",科幻惊悚片-异形
+https://live.ottiptv.cc/yy/1382735543
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/我的父亲我的兵.png",我的父亲我的兵
+https://live.ottiptv.cc/yy/1353413714
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/农家小菜.png",农家小菜
+https://live.ottiptv.cc/yy/1382736894
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/从溺水到冠军，热血泳坛励志传奇.png",从溺水到冠军，热血泳坛励志传奇
+https://live.ottiptv.cc/yy/1382736723
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/大台风.png",大台风
+https://live.ottiptv.cc/yy/1382735583
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/超炫科幻大片.png",超炫科幻大片
+https://live.ottiptv.cc/yy/1382736840
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/抗日神片，燃爆抗战热血魂.png",抗日神片，燃爆抗战热血魂
+https://live.ottiptv.cc/yy/1354926600
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/少年四大名捕.png",少年四大名捕
+https://live.ottiptv.cc/yy/1354936203
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/欢喜冤家的爱情-夏日乐悠悠.png",欢喜冤家的爱情-夏日乐悠悠
+https://live.ottiptv.cc/yy/1354936191
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/宝莲灯前传.png",宝莲灯前传
+https://live.ottiptv.cc/yy/1354931631
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/抹茶少女.png",抹茶少女
+https://live.ottiptv.cc/yy/1382737888
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/欢乐集结号58-70.png",欢乐集结号58-70
+https://live.ottiptv.cc/yy/1382745119
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/珍珠港-电影.png",珍珠港-电影
+https://live.ottiptv.cc/yy/1354936234
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/蔡明春晚小品.png",蔡明春晚小品
+https://live.ottiptv.cc/yy/1354936177
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/拳拳到肉，搏击燃情.png",拳拳到肉，搏击燃情
+https://live.ottiptv.cc/yy/1382736870
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/太空荒野求生记-火星救援.png",太空荒野求生记-火星救援
+https://live.ottiptv.cc/yy/1354930957
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/贾玲春晚小品.png",贾玲春晚小品
+https://live.ottiptv.cc/yy/1382736720
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/机械战警1-3.png",机械战警1-3
+https://live.ottiptv.cc/yy/1382736854
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/欢乐集结号4.png",欢乐集结号4
+https://live.ottiptv.cc/yy/1382736889
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/一起来笑吧.png",一起来笑吧
+https://live.ottiptv.cc/yy/1454859415
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/施公奇案2-欧阳震华.png",施公奇案2-欧阳震华
+https://live.ottiptv.cc/yy/1382736824
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/舌尖上的中国第一季.png",舌尖上的中国第一季
+https://live.ottiptv.cc/yy/1354930952
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/巾帼枭雄之义海豪情.png",巾帼枭雄之义海豪情
+https://live.ottiptv.cc/yy/1382736859
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/百家讲坛-红楼梦篇.png",百家讲坛-红楼梦篇
+https://live.ottiptv.cc/yy/1382741639
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/发哥系列.png",发哥系列
+https://live.ottiptv.cc/yy/1354888733
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/少年包青天美黑之旅.png",少年包青天美黑之旅
+https://live.ottiptv.cc/yy/1354936141
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/科幻电影.png",科幻电影
+https://live.ottiptv.cc/yy/1354930209
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/YY用户.png",YY用户
+https://live.ottiptv.cc/yy/1382736918
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/哑巴竟然会说话.png",哑巴竟然会说话
+https://live.ottiptv.cc/yy/1354932427
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/YY用户.png",YY用户
+https://live.ottiptv.cc/yy/1382736887
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/电视剧-流金岁月.png",电视剧-流金岁月
+https://live.ottiptv.cc/yy/1382749906
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/远去的飞鹰-影视剧.png",远去的飞鹰-影视剧
+https://live.ottiptv.cc/yy/1354930912
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/致敬星爷致敬经典.png",致敬星爷致敬经典
+https://live.ottiptv.cc/yy/1354889048
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/高分动作片——创可贴.png",高分动作片——创可贴
+https://live.ottiptv.cc/yy/1382735568
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/一分钟学道菜.png",一分钟学道菜
+https://live.ottiptv.cc/yy/1382736901
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/辣警狂花2.png",辣警狂花2
+https://live.ottiptv.cc/yy/1382745110
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/本山快乐营1.png",本山快乐营1
+https://live.ottiptv.cc/yy/1354936209
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/YY用户.png",YY用户
+https://live.ottiptv.cc/yy/1382735579
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/热血少年上线，《长歌行》开播.png",热血少年上线，《长歌行》开播
+https://live.ottiptv.cc/yy/1382736802
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/王牌保镖在此.png",王牌保镖在此
+https://live.ottiptv.cc/yy/1382749913
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/名媛望族-精彩港剧.png",名媛望族-精彩港剧
+https://live.ottiptv.cc/yy/1354932431
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/搬山道人之落天荒.png",搬山道人之落天荒
+https://live.ottiptv.cc/yy/1382736916
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/渴望.png",渴望
+https://live.ottiptv.cc/yy/1354930963
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/傲娇千金惹人醉.png",傲娇千金惹人醉
+https://live.ottiptv.cc/yy/1382851602
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/名不虚传-韩剧.png",名不虚传-韩剧
+https://live.ottiptv.cc/yy/1382749904
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/来看修牛蹄.png",来看修牛蹄
+https://live.ottiptv.cc/yy/1382749887
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/国产家庭电视剧-如果岁月可回头.png",国产家庭电视剧-如果岁月可回头
+https://live.ottiptv.cc/yy/1382736883
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/银河护卫队-国外科幻巨作.png",银河护卫队-国外科幻巨作
+https://live.ottiptv.cc/yy/1382736815
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/白领被迫当楼奴？.png",白领被迫当楼奴？
+https://live.ottiptv.cc/yy/1382736832
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/大铸剑师传奇.png",大铸剑师传奇
+https://live.ottiptv.cc/yy/1354932371
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/带你领略四季的变化.png",带你领略四季的变化
+https://live.ottiptv.cc/yy/1354930816
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/辣警狂花.png",辣警狂花
+https://live.ottiptv.cc/yy/1382736892
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/高能博弈—大事件.png",高能博弈—大事件
+https://live.ottiptv.cc/yy/1382749898
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/碟中谍系列电影.png",碟中谍系列电影
+https://live.ottiptv.cc/yy/1382736836
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/另类猪妖爆笑逆袭.png",另类猪妖爆笑逆袭
+https://live.ottiptv.cc/yy/1354936155
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/忠诚无畏，战犬出击.png",忠诚无畏，战犬出击
+https://live.ottiptv.cc/yy/1354930225
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/超燃科幻大片：明日边缘.png",超燃科幻大片：明日边缘
+https://live.ottiptv.cc/yy/1382736835
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/兵王绝境狙杀.png",兵王绝境狙杀
+https://live.ottiptv.cc/yy/1382736833
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/学生兵.png",学生兵
+https://live.ottiptv.cc/yy/1354658003
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/霹雳火：速度与激情.png",霹雳火：速度与激情
+https://live.ottiptv.cc/yy/1382736895
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/影视小艺.png",影视小艺
+https://live.ottiptv.cc/yy/1382737886
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/本山快乐营2.png",本山快乐营2
+https://live.ottiptv.cc/yy/1382736718
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/当旺爸爸-港剧.png",当旺爸爸-港剧
+https://live.ottiptv.cc/yy/1354936208
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/喜剧闹翻天.png",喜剧闹翻天
+https://live.ottiptv.cc/yy/1382735548
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/狄仁杰智破红瞳谜案.png",狄仁杰智破红瞳谜案
+https://live.ottiptv.cc/yy/1354936116
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/爆笑诡扯记.png",爆笑诡扯记
+https://live.ottiptv.cc/yy/1354936249
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/娘亲舅大.png",娘亲舅大
+https://live.ottiptv.cc/yy/1354932360
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/女医明妃传.png",女医明妃传
+https://live.ottiptv.cc/yy/1382736861
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/致命武器3.png",致命武器3
+https://live.ottiptv.cc/yy/1382749918
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/国产动作电影.png",国产动作电影
+https://live.ottiptv.cc/yy/1382736858
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/动作大片.png",动作大片
+https://live.ottiptv.cc/yy/1354888739
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/绝境博弈，无路可逃.png",绝境博弈，无路可逃
+https://live.ottiptv.cc/yy/1382851597
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/PK地球神.png",PK地球神
+https://live.ottiptv.cc/yy/1382736872
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/爱在璀璨时.png",爱在璀璨时
+https://live.ottiptv.cc/yy/1354926671
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/清官难当？看芝麻官如何破局.png",清官难当？看芝麻官如何破局
+https://live.ottiptv.cc/yy/1382749909
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/每天都要快乐哦！.png",每天都要快乐哦！
+https://live.ottiptv.cc/yy/1354930909
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/一段关于救赎与坚守的西部传奇.png",一段关于救赎与坚守的西部传奇
+https://live.ottiptv.cc/yy/1382741640
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/封神：祸商.png",封神：祸商
+https://live.ottiptv.cc/yy/1354932407
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/深海巨兽惊现，渔民与神秘生物的生存博弈.png",深海巨兽惊现，渔民与神秘生物的生存博弈
+https://live.ottiptv.cc/yy/1382745111
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/Simon Amstell：躺平哲学.png",Simon Amstell：躺平哲学
+https://live.ottiptv.cc/yy/1382749951
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/高分经典动作片.png",高分经典动作片
+https://live.ottiptv.cc/yy/1382749944
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/悬疑反转，直击真相.png",悬疑反转，直击真相
+https://live.ottiptv.cc/yy/1354930954
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/了不起的萝莉小玲.png",了不起的萝莉小玲
+https://live.ottiptv.cc/yy/1382736799
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/热血战争巨作.png",热血战争巨作
+https://live.ottiptv.cc/yy/1382745087
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/笑傲江湖-电视剧.png",笑傲江湖-电视剧
+https://live.ottiptv.cc/yy/1354936128
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/手机APP掌控人生.png",手机APP掌控人生
+https://live.ottiptv.cc/yy/1382736874
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/老夫少妻搞笑忘年恋.png",老夫少妻搞笑忘年恋
+https://live.ottiptv.cc/yy/1354932391
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/热血抗日电影.png",热血抗日电影
+https://live.ottiptv.cc/yy/1382749907
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/艾迪格里芬：经典就是我.png",艾迪格里芬：经典就是我
+https://live.ottiptv.cc/yy/1354932409
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/你最爱的小龙女-神雕侠侣.png",你最爱的小龙女-神雕侠侣
+https://live.ottiptv.cc/yy/1354926637
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/笔墨传情，致敬经典——妙墨中国心.png",笔墨传情，致敬经典——妙墨中国心
+https://live.ottiptv.cc/yy/1382745178
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/黄大妮-电视剧.png",黄大妮-电视剧
+https://live.ottiptv.cc/yy/1354930904
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/金牌喜剧班.png",金牌喜剧班
+https://live.ottiptv.cc/yy/1354889009
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/乔·科伊热辣开麦.png",乔·科伊热辣开麦
+https://live.ottiptv.cc/yy/1382735625
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/铁血拍档：并肩破局的燃魂对决.png",铁血拍档：并肩破局的燃魂对决
+https://live.ottiptv.cc/yy/1382736884
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/YY用户.png",YY用户
+https://live.ottiptv.cc/yy/1382745182
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/最佳下饭小甜剧，暖心暖胃.png",最佳下饭小甜剧，暖心暖胃
+https://live.ottiptv.cc/yy/1382741637
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/海王-院线大片.png",海王-院线大片
+https://live.ottiptv.cc/yy/1354936142
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/牧野诡事之赤丹珠.png",牧野诡事之赤丹珠
+https://live.ottiptv.cc/yy/1382736863
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/美好的意外治愈邂逅.png",美好的意外治愈邂逅
+https://live.ottiptv.cc/yy/1382828766
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/小人国——介子鬼城.png",小人国——介子鬼城
+https://live.ottiptv.cc/yy/1382749950
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/毒力觉醒的异能逆袭狂潮.png",毒力觉醒的异能逆袭狂潮
+https://live.ottiptv.cc/yy/1354926735
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/全村一起搞艺术.png",全村一起搞艺术
+https://live.ottiptv.cc/yy/1354936210
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/不可能的任务-碟中谍4.png",不可能的任务-碟中谍4
+https://live.ottiptv.cc/yy/1354930967
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/爆笑来袭-小品欢乐集结号.png",爆笑来袭-小品欢乐集结号
+https://live.ottiptv.cc/yy/1382735558
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/还原英雄最后的壮烈！.png",还原英雄最后的壮烈！
+https://live.ottiptv.cc/yy/1354930984
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/新木乃伊：古埃及公主复活的灾难对决.png",新木乃伊：古埃及公主复活的灾难对决
+https://live.ottiptv.cc/yy/1354936169
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/高分港剧合集.png",高分港剧合集
+https://live.ottiptv.cc/yy/1382735542
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/宋小宝春晚小品合集.png",宋小宝春晚小品合集
+https://live.ottiptv.cc/yy/1382736866
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/匪帮传奇故事.png",匪帮传奇故事
+https://live.ottiptv.cc/yy/1382749941
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/新时代农村青年的热血奋斗记.png",新时代农村青年的热血奋斗记
+https://live.ottiptv.cc/yy/1382736715
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/横行不霸道.png",横行不霸道
+https://live.ottiptv.cc/yy/1354930189
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/丹尼尔·斯洛斯烧脑谜题.png",丹尼尔·斯洛斯烧脑谜题
+https://live.ottiptv.cc/yy/1354936199
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/流金岁月-经典港剧.png",流金岁月-经典港剧
+https://live.ottiptv.cc/yy/1382736891
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/呆萌飞行员.png",呆萌飞行员
+https://live.ottiptv.cc/yy/1354930968
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/亚洲笑星征服美国.png",亚洲笑星征服美国
+https://live.ottiptv.cc/yy/1382736920
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/YY用户.png",YY用户
+https://live.ottiptv.cc/yy/1382735545
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/宇宙护卫队--国漫.png",宇宙护卫队--国漫
+https://live.ottiptv.cc/yy/1382736837
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/梅超风往事.png",梅超风往事
+https://live.ottiptv.cc/yy/1382745190
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/悬疑武侠电影—九门.png",悬疑武侠电影—九门
+https://live.ottiptv.cc/yy/1382828768
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/萌妹特攻队爆笑出击.png",萌妹特攻队爆笑出击
+https://live.ottiptv.cc/yy/1354930971
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/坑你没商量.png",坑你没商量
+https://live.ottiptv.cc/yy/1354936160
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/神秘来客闯入.png",神秘来客闯入
+https://live.ottiptv.cc/yy/1382736820
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/时间的答卷第二季.png",时间的答卷第二季
+https://live.ottiptv.cc/yy/1382745106
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/绝地生死营救.png",绝地生死营救
+https://live.ottiptv.cc/yy/1354936214
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/追踪神秘狐影.png",追踪神秘狐影
+https://live.ottiptv.cc/yy/1382749953
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/Bill Burr暴躁经典重现.png",Bill Burr暴躁经典重现
+https://live.ottiptv.cc/yy/1382736917
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/憨夫憨妇闯情关.png",憨夫憨妇闯情关
+https://live.ottiptv.cc/yy/1382735581
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/太空异种惊魂.png",太空异种惊魂
+https://live.ottiptv.cc/yy/1382745094
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/异地演出，炸场奇遇.png",异地演出，炸场奇遇
+https://live.ottiptv.cc/yy/1382735561
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/笑果伴酒，快乐中秋.png",笑果伴酒，快乐中秋
+https://live.ottiptv.cc/yy/1382745092
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/杰斯尼克暗黑我思我祷.png",杰斯尼克暗黑我思我祷
+https://live.ottiptv.cc/yy/1354658051
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/快递小哥变身英雄.png",快递小哥变身英雄
+https://live.ottiptv.cc/yy/1354932405
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/心动信号甜蜜发酵.png",心动信号甜蜜发酵
+https://live.ottiptv.cc/yy/1382736819
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/美女保镖出击！.png",美女保镖出击！
+https://live.ottiptv.cc/yy/1354936231
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/Storm憋了一年大招.png",Storm憋了一年大招
+https://live.ottiptv.cc/yy/1382735559
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/战火中的兄弟情义.png",战火中的兄弟情义
+https://live.ottiptv.cc/yy/1382736844
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/异类入侵高能反转.png",异类入侵高能反转
+https://live.ottiptv.cc/yy/1354936217
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/杀机四伏.png",杀机四伏
+https://live.ottiptv.cc/yy/1354936195
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/熊出没之探险日记-森林探险记.png",熊出没之探险日记-森林探险记
+https://live.ottiptv.cc/yy/1382745122
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/旺达·塞克丝：怼遍全场.png",旺达·塞克丝：怼遍全场
+https://live.ottiptv.cc/yy/1354936221
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/为妈妈点赞.png",为妈妈点赞
+https://live.ottiptv.cc/yy/1382745098
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/天师驱魔令.png",天师驱魔令
+https://live.ottiptv.cc/yy/1354926643
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/龙师傅来接招.png",龙师傅来接招
+https://live.ottiptv.cc/yy/1354889015
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/公主战俘记.png",公主战俘记
+https://live.ottiptv.cc/yy/1354931488
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/狼爸硬核带娃.png",狼爸硬核带娃
+https://live.ottiptv.cc/yy/1382735627
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/武状元落魄，神谕指引丐帮逆袭.png",武状元落魄，神谕指引丐帮逆袭
+https://live.ottiptv.cc/yy/1382736882
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/苍狼特战突击.png",苍狼特战突击
+https://live.ottiptv.cc/yy/1382736849
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/揭秘！经典传奇背后的未解之谜.png",揭秘！经典传奇背后的未解之谜
+https://live.ottiptv.cc/yy/1382736912
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/开放麦现场惊现认亲.png",开放麦现场惊现认亲
+https://live.ottiptv.cc/yy/1354936181
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/战俘营大逃亡.png",战俘营大逃亡
+https://live.ottiptv.cc/yy/1354930915
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/非典型恋爱.png",非典型恋爱
+https://live.ottiptv.cc/yy/1354936157
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/硬核使命.png",硬核使命
+https://live.ottiptv.cc/yy/1354936122
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/英伦特工智斗谍影.png",英伦特工智斗谍影
+https://live.ottiptv.cc/yy/1382736841
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/颠覆秩序的声浪狂潮.png",颠覆秩序的声浪狂潮
+https://live.ottiptv.cc/yy/1354932426
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/嗜血巨狼突袭人类.png",嗜血巨狼突袭人类
+https://live.ottiptv.cc/yy/1382735560
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/唐门双雄战神犼.png",唐门双雄战神犼
+https://live.ottiptv.cc/yy/1382736897
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/重启.png",重启
+https://live.ottiptv.cc/yy/1354888736
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/忠犬救主，一段感动人心的陪伴之旅.png",忠犬救主，一段感动人心的陪伴之旅
+https://live.ottiptv.cc/yy/1382736719
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/茅山天师降魔.png",茅山天师降魔
+https://live.ottiptv.cc/yy/1354889042
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/体验另一种生活！.png",体验另一种生活！
+https://live.ottiptv.cc/yy/1354936229
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/天龙八部（国语版）.png",天龙八部（国语版）
+https://live.ottiptv.cc/yy/1382736855
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/打破第四面墙.png",打破第四面墙
+https://live.ottiptv.cc/yy/1382745090
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/侏罗纪复活战.png",侏罗纪复活战
+https://live.ottiptv.cc/yy/1354930945
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/经典传奇2018.png",经典传奇2018
+https://live.ottiptv.cc/yy/1382745189
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/外星人入侵.png",外星人入侵
+https://live.ottiptv.cc/yy/1382745181
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/冰峰惊魂夜.png",冰峰惊魂夜
+https://live.ottiptv.cc/yy/1354936136
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/蜀山伏魔剑.png",蜀山伏魔剑
+https://live.ottiptv.cc/yy/1354932365
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/花木兰巾帼英雄.png",花木兰巾帼英雄
+https://live.ottiptv.cc/yy/1354926622
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/留学澳大利亚的蓝翔梗王.png",留学澳大利亚的蓝翔梗王
+https://live.ottiptv.cc/yy/1354932441
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/乔·科伊席卷西雅图.png",乔·科伊席卷西雅图
+https://live.ottiptv.cc/yy/1382749911
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/你好现任.png",你好现任
+https://live.ottiptv.cc/yy/1382735566
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/热烈的玫瑰.png",热烈的玫瑰
+https://live.ottiptv.cc/yy/1382736798
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/悬疑剧-河神.png",悬疑剧-河神
+https://live.ottiptv.cc/yy/1353413683
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/铁甲狂猴雷霆.png",铁甲狂猴雷霆
+https://live.ottiptv.cc/yy/1382735552
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/大闹三界奇幻冒险.png",大闹三界奇幻冒险
+https://live.ottiptv.cc/yy/1382736804
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/赵牡丹，辛辣开麦.png",赵牡丹，辛辣开麦
+https://live.ottiptv.cc/yy/1382736893
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/音乐才女与霸道总裁的治愈之恋.png",音乐才女与霸道总裁的治愈之恋
+https://live.ottiptv.cc/yy/1382735573
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/闲暇观看综艺.png",闲暇观看综艺
+https://live.ottiptv.cc/yy/1354932379
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/暗恋成真青春纯爱.png",暗恋成真青春纯爱
+https://live.ottiptv.cc/yy/1382736817
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/戴夫吐槽晕头转向的时代.png",戴夫吐槽晕头转向的时代
+https://live.ottiptv.cc/yy/1382736869
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/守护千年雄关.png",守护千年雄关
+https://live.ottiptv.cc/yy/1354936228
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/小小心事，笑着流泪.png",小小心事，笑着流泪
+https://live.ottiptv.cc/yy/1382736852
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/许光汉主演喜剧大片.png",许光汉主演喜剧大片
+https://live.ottiptv.cc/yy/1382736825
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/未来中国.png",未来中国
+https://live.ottiptv.cc/yy/1354932429
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/最佳时机：命运转角的最佳抉择与奔赴.png",最佳时机：命运转角的最佳抉择与奔赴
+https://live.ottiptv.cc/yy/1354936207
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/青龙偃月显威.png",青龙偃月显威
+https://live.ottiptv.cc/yy/1354932402
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/就是要疯狂.png",就是要疯狂
+https://live.ottiptv.cc/yy/1354936145
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/巅峰救援行动.png",巅峰救援行动
+https://live.ottiptv.cc/yy/1382736857
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/淮水情深深.png",淮水情深深
+https://live.ottiptv.cc/yy/1382749888
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/硬汉搭档扫黑，致命武器2.png",硬汉搭档扫黑，致命武器2
+https://live.ottiptv.cc/yy/1382736865
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/破解终极密码.png",破解终极密码
+https://live.ottiptv.cc/yy/1382735571
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/赛道争锋！.png",赛道争锋！
+https://live.ottiptv.cc/yy/1382736853
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/仙剑风云再起.png",仙剑风云再起
+https://live.ottiptv.cc/yy/1354933556
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/巨蛛嗜血狂.png",巨蛛嗜血狂
+https://live.ottiptv.cc/yy/1354930903
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/契约夫妻上线.png",契约夫妻上线
+https://live.ottiptv.cc/yy/1354936154
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/新弦已张，静候谁的指尖与故事？.png",新弦已张，静候谁的指尖与故事？
+https://live.ottiptv.cc/yy/1354936170
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/踮脚拥抱爱情.png",踮脚拥抱爱情
+https://live.ottiptv.cc/yy/1354930927
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/特派先锋出击.png",特派先锋出击
+https://live.ottiptv.cc/yy/1382749940
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/哮天犬闹龙宫.png",哮天犬闹龙宫
+https://live.ottiptv.cc/yy/1382736913
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/拳战闸北！.png",拳战闸北！
+https://live.ottiptv.cc/yy/1382749910
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/致命蜂群来袭.png",致命蜂群来袭
+https://live.ottiptv.cc/yy/1382736896
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/暗战幽灵毒枭.png",暗战幽灵毒枭
+https://live.ottiptv.cc/yy/1382745099
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/奇门异人出世.png",奇门异人出世
+https://live.ottiptv.cc/yy/1382749912
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/爱情拯救计划.png",爱情拯救计划
+https://live.ottiptv.cc/yy/1354936238
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/本山选谁上-喜剧人选拔.png",本山选谁上-喜剧人选拔
+https://live.ottiptv.cc/yy/1382749878
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/绝对忠诚使命.png",绝对忠诚使命
+https://live.ottiptv.cc/yy/1354936178
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/穿越时间长河，聆听初心不改的动人故事.png",穿越时间长河，聆听初心不改的动人故事
+https://live.ottiptv.cc/yy/1382745100
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/《妻子的浪漫旅行2026》精彩花絮.png",《妻子的浪漫旅行2026》精彩花絮
+https://live.ottiptv.cc/yy/1354808044
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/神医喜来乐.png",神医喜来乐
+https://live.ottiptv.cc/yy/1382714119
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/进来 陪你看电视.png",进来 陪你看电视
+https://live.ottiptv.cc/yy/1353518742
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/真实案件系列.png",真实案件系列
+https://live.ottiptv.cc/yy/1382671124
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/斗罗大陆24h.png",斗罗大陆24h
+https://live.ottiptv.cc/yy/1355171231
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/李连杰功夫 经典武侠.png",李连杰功夫 经典武侠
+https://live.ottiptv.cc/yy/74613175
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/鬼片喜剧动作港剧.png",鬼片喜剧动作港剧
+https://live.ottiptv.cc/yy/1355269576
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/鱼美美隋唐英雄传.png",鱼美美隋唐英雄传
+https://live.ottiptv.cc/yy/1355102749
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/没大哥求VP.png",没大哥求VP
+https://live.ottiptv.cc/yy/1351537467
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/赵本山宋小宝小品大全.png",赵本山宋小宝小品大全
+https://live.ottiptv.cc/yy/1382745331
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/经典破案剧  代练王者.png",经典破案剧  代练王者
+https://live.ottiptv.cc/yy/1353283667
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/易中天品三国完整版.png",易中天品三国完整版
+https://live.ottiptv.cc/yy/1461244449
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/武林外传.png",武林外传
+https://live.ottiptv.cc/yy/1355652820
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/狂飙.png",狂飙
+https://live.ottiptv.cc/yy/1382626335
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/林正英-经典电影.png",林正英-经典电影
+https://live.ottiptv.cc/yy/34229877
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/弹幕天团 下饭神剧.png",弹幕天团 下饭神剧
+https://live.ottiptv.cc/yy/23512910
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/大染坊.png",大染坊
+https://live.ottiptv.cc/yy/1353215589
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/靓剑.png",靓剑
+https://live.ottiptv.cc/yy/1356043643
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/雍正王朝.png",雍正王朝
+https://live.ottiptv.cc/yy/1356043620
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/少年包青天.png",少年包青天
+https://live.ottiptv.cc/yy/1356043677
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/晾剑 电视剧.png",晾剑 电视剧
+https://live.ottiptv.cc/yy/1451866697
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/【经典港片】佟瑶.png",【经典港片】佟瑶
+https://live.ottiptv.cc/yy/23531261
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/经典鬼片3000部.png",经典鬼片3000部
+https://live.ottiptv.cc/yy/29460894
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/武林外传.png",武林外传
+https://live.ottiptv.cc/yy/1355344777
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/超喜剧地下交通站男神贾贵.png",超喜剧地下交通站男神贾贵
+https://live.ottiptv.cc/yy/1353428972
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/古惑仔.png",古惑仔
+https://live.ottiptv.cc/yy/1458015189
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/士兵突击.png",士兵突击
+https://live.ottiptv.cc/yy/1382768483
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/【鹿鼎记】金庸经典.png",【鹿鼎记】金庸经典
+https://live.ottiptv.cc/yy/28265277
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/经典抗战剧.png",经典抗战剧
+https://live.ottiptv.cc/yy/1354555195
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/港片 喜剧 动作.png",港片 喜剧 动作
+https://live.ottiptv.cc/yy/1355480591
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/康熙微服私访记.png",康熙微服私访记
+https://live.ottiptv.cc/yy/1352811698
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/鬼经典老片.png",鬼经典老片
+https://live.ottiptv.cc/yy/1463783198
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/昕儿 正在直播.png",昕儿 正在直播
+https://live.ottiptv.cc/yy/1353852605
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/纪晓岚.png",纪晓岚
+https://live.ottiptv.cc/yy/1354143978
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/济公.png",济公
+https://live.ottiptv.cc/yy/1355265814
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/梦涵 正在直播.png",梦涵 正在直播
+https://live.ottiptv.cc/yy/1352475619
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/燕双鹰.png",燕双鹰
+https://live.ottiptv.cc/yy/1352227153
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/大家车言论.png",大家车言论
+https://live.ottiptv.cc/yy/1382570702
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/惊恐盗暮鬼怪.png",惊恐盗暮鬼怪
+https://live.ottiptv.cc/yy/1382749525
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/新白娘子传奇.png",新白娘子传奇
+https://live.ottiptv.cc/yy/1354490667
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/狄仁杰.png",狄仁杰
+https://live.ottiptv.cc/yy/1351755386
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/动漫.png",动漫
+https://live.ottiptv.cc/yy/22777075
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/少年歌行.png",少年歌行
+https://live.ottiptv.cc/yy/1450556636
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/动漫《火影疾风传》.png",动漫《火影疾风传》
+https://live.ottiptv.cc/yy/1459675153
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/宰相刘罗锅.png",宰相刘罗锅
+https://live.ottiptv.cc/yy/1353892468
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/顺溜.png",顺溜
+https://live.ottiptv.cc/yy/22089862
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/纪晓岚.png",纪晓岚
+https://live.ottiptv.cc/yy/1352227227
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/薛仁贵传奇.png",薛仁贵传奇
+https://live.ottiptv.cc/yy/1355260662
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/经典港片动作搞笑.png",经典港片动作搞笑
+https://live.ottiptv.cc/yy/1459869766
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/甜心 正在直播.png",甜心 正在直播
+https://live.ottiptv.cc/yy/1454732419
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/天龙神雕经典回忆.png",天龙神雕经典回忆
+https://live.ottiptv.cc/yy/68260522
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/朵宝陪你看狄仁杰.png",朵宝陪你看狄仁杰
+https://live.ottiptv.cc/yy/1353753252
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/【周星驰】搞笑电影.png",【周星驰】搞笑电影
+https://live.ottiptv.cc/yy/38670875
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/老九门24h.png",老九门24h
+https://live.ottiptv.cc/yy/1355171357
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/破案港剧.png",破案港剧
+https://live.ottiptv.cc/yy/1350670730
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/进来 陪你看动漫.png",进来 陪你看动漫
+https://live.ottiptv.cc/yy/1352866135
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/小蓉儿 正在直播.png",小蓉儿 正在直播
+https://live.ottiptv.cc/yy/1351762426
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/鹿鼎记-高清全集.png",鹿鼎记-高清全集
+https://live.ottiptv.cc/yy/1382704650
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/林正英经典.png",林正英经典
+https://live.ottiptv.cc/yy/1351505899
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/五号特工组和平ff.png",五号特工组和平ff
+https://live.ottiptv.cc/yy/1414967772
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/豪哥带我们发财.png",豪哥带我们发财
+https://live.ottiptv.cc/yy/23402146
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/大秧歌~24h经典好剧.png",大秧歌~24h经典好剧
+https://live.ottiptv.cc/yy/1354744544
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/少年歌行~暗河传~.png",少年歌行~暗河传~
+https://live.ottiptv.cc/yy/29067083
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/铁齿铜牙纪晓岚.png",铁齿铜牙纪晓岚
+https://live.ottiptv.cc/yy/1382781415
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/24h 我爱我家 喜剧.png",24h 我爱我家 喜剧
+https://live.ottiptv.cc/yy/1356212303
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/小甜甜    闯关东.png",小甜甜    闯关东
+https://live.ottiptv.cc/yy/1354689861
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/经典电影重温.png",经典电影重温
+https://live.ottiptv.cc/yy/1382793140
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/动漫.png",动漫
+https://live.ottiptv.cc/yy/26664495
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/老妖私影院.png",老妖私影院
+https://live.ottiptv.cc/yy/1354952229
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/燕双鹰.png",燕双鹰
+https://live.ottiptv.cc/yy/1354143942
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/小美美 正在直播.png",小美美 正在直播
+https://live.ottiptv.cc/yy/1354143966
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/倚天屠龙记.png",倚天屠龙记
+https://live.ottiptv.cc/yy/33300793
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/8090.电影一哥.png",8090.电影一哥
+https://live.ottiptv.cc/yy/29197808
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/国漫动漫.png",国漫动漫
+https://live.ottiptv.cc/yy/1354768828
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/水浒传.png",水浒传
+https://live.ottiptv.cc/yy/1353873252
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/83射雕英雄传.png",83射雕英雄传
+https://live.ottiptv.cc/yy/1354210357
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/天龙 神雕金庸.png",天龙 神雕金庸
+https://live.ottiptv.cc/yy/1356043609
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/天龙八部.png",天龙八部
+https://live.ottiptv.cc/yy/1355067965
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/闯关东.png",闯关东
+https://live.ottiptv.cc/yy/1383546866
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/知否知否应是绿肥红瘦.png",知否知否应是绿肥红瘦
+https://live.ottiptv.cc/yy/21881901
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/西游记后传 蓝光.png",西游记后传 蓝光
+https://live.ottiptv.cc/yy/1353392400
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/24小时循环播电视剧.png",24小时循环播电视剧
+https://live.ottiptv.cc/yy/53320802
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/动漫.png",动漫
+https://live.ottiptv.cc/yy/1354143938
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/【靓剑】乐乐陪看.png",【靓剑】乐乐陪看
+https://live.ottiptv.cc/yy/1352946111
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/靓剑.png",靓剑
+https://live.ottiptv.cc/yy/1382788679
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/24H地下交通站全.png",24H地下交通站全
+https://live.ottiptv.cc/yy/37880083
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/天龙八部.png",天龙八部
+https://live.ottiptv.cc/yy/1351814644
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/绝版僵尸鬼片.png",绝版僵尸鬼片
+https://live.ottiptv.cc/yy/1460889796
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/动漫.png",动漫
+https://live.ottiptv.cc/yy/1382747970
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/新主播，求照顾.png",新主播，求照顾
+https://live.ottiptv.cc/yy/1382690406
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/精彩动漫.png",精彩动漫
+https://live.ottiptv.cc/yy/1420843376
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/动漫.png",动漫
+https://live.ottiptv.cc/yy/23993334
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/鬼片恐怖私家影院.png",鬼片恐怖私家影院
+https://live.ottiptv.cc/yy/1354209316
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/古装剧.png",古装剧
+https://live.ottiptv.cc/yy/1356158015
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/YY果国际电影频道.png",YY果国际电影频道
+https://live.ottiptv.cc/yy/1382627144
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/苹果工会招募主播.png",苹果工会招募主播
+https://live.ottiptv.cc/yy/1354889234
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/金庸武侠 天龙八部.png",金庸武侠 天龙八部
+https://live.ottiptv.cc/yy/1352300646
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/武林外传.png",武林外传
+https://live.ottiptv.cc/yy/1354282410
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/24h唐朝诡实录1234.png",24h唐朝诡实录1234
+https://live.ottiptv.cc/yy/1353913646
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/和你不见不散.png",和你不见不散
+https://live.ottiptv.cc/yy/1355635293
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/什么会让你快乐.png",什么会让你快乐
+https://live.ottiptv.cc/yy/54886912
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/新白娘子4K高清观看.png",新白娘子4K高清观看
+https://live.ottiptv.cc/yy/1508961855
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/时代剧，黄土高天.png",时代剧，黄土高天
+https://live.ottiptv.cc/yy/1414864180
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/动漫.png",动漫
+https://live.ottiptv.cc/yy/1354768831
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/1930年代经典电影.png",1930年代经典电影
+https://live.ottiptv.cc/yy/1356363815
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/安安电视剧.png",安安电视剧
+https://live.ottiptv.cc/yy/1414817779
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/动漫.png",动漫
+https://live.ottiptv.cc/yy/25055036
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/斗破苍穹~24h玄幻剧.png",斗破苍穹~24h玄幻剧
+https://live.ottiptv.cc/yy/1356051105
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/楚乔传.png",楚乔传
+https://live.ottiptv.cc/yy/1507704566
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/疯狂动漫 正在直播.png",疯狂动漫 正在直播
+https://live.ottiptv.cc/yy/1353937086
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/吕布戏貂蝉.png",吕布戏貂蝉
+https://live.ottiptv.cc/yy/1460783366
+#EXTINF:-1 group-title="电影频道1" tvg-logo="https://livecdn.zbds.org/logo/欧美配音电影！！！.png",欧美配音电影！！！
+https://live.ottiptv.cc/yy/1354693629
+#EXTINF:-1 group-title="春晚频道" tvg-logo="https://livecdn.zbds.org/logo/1987年春晚.png",1987年春晚
+https://txmov2.a.kwimgs.com/bs3/video-hls/5195746663405928031_hlsb.m3u8
+#EXTINF:-1 group-title="春晚频道" tvg-logo="https://livecdn.zbds.org/logo/1988年春晚.png",1988年春晚
+https://txmov2.a.kwimgs.com/bs3/video-hls/5216575810935394655_hlsb.m3u8
+#EXTINF:-1 group-title="春晚频道" tvg-logo="https://livecdn.zbds.org/logo/1989年春晚.png",1989年春晚
+https://txmov2.a.kwimgs.com/bs3/video-hls/5194620763762726260_hlsb.m3u8
+#EXTINF:-1 group-title="春晚频道" tvg-logo="https://livecdn.zbds.org/logo/1993年春晚.png",1993年春晚
+https://alimov2.a.kwimgs.com/upic/2023/01/13/22/BMjAyMzAxMTMyMjEwMDNfNDAzMDAxOTlfOTM1MTIzMzYwODJfMF8z_b_B647d10e431b4cc5e48e6c77347d69021.mp4
+#EXTINF:-1 group-title="春晚频道" tvg-logo="https://livecdn.zbds.org/logo/1994年春晚.png",1994年春晚
+https://alimov2.a.kwimgs.com/upic/2023/01/13/22/BMjAyMzAxMTMyMjEwMDNfNDAzMDAxOTlfOTM1MTIzMzYxMjNfMF8z_b_B3dde97f36273f04403d4dc5eec611a35.mp4
+#EXTINF:-1 group-title="春晚频道" tvg-logo="https://livecdn.zbds.org/logo/1995年春晚.png",1995年春晚
+https://alimov2.a.kwimgs.com/upic/2023/01/13/20/BMjAyMzAxMTMyMDA5MjJfNDAzMDAxOTlfOTM0OTkwNDQwNzVfMF8z_b_B811c0dec6b9a3d3074a18522c185010a.mp4
+#EXTINF:-1 group-title="春晚频道" tvg-logo="https://livecdn.zbds.org/logo/1996年春晚.png",1996年春晚
+https://alimov2.a.kwimgs.com/upic/2023/01/13/22/BMjAyMzAxMTMyMjEwMDNfNDAzMDAxOTlfOTM1MTIzMzYxNTJfMF8z_b_Bd841eae10ab1c9955ef55fbedfae6c45.mp4
+#EXTINF:-1 group-title="春晚频道" tvg-logo="https://livecdn.zbds.org/logo/2000年春晚.png",2000年春晚
+https://alimov2.a.kwimgs.com/upic/2023/01/13/21/BMjAyMzAxMTMyMTE4MzRfNDAzMDAxOTlfOTM1MDY4ODIxMTNfMF8z_b_Bdddf4e7ef0ff6cfd477857bb40e78419.mp4
+#EXTINF:-1 group-title="春晚频道" tvg-logo="https://livecdn.zbds.org/logo/2001年春晚.png",2001年春晚
+https://alimov2.a.kwimgs.com/upic/2023/01/13/20/BMjAyMzAxMTMyMDA5MjJfNDAzMDAxOTlfOTM0OTkwNDQyMDFfMF8z_b_B70592cb7c4054e9cabb675e849bbf4bd.mp4
+#EXTINF:-1 group-title="春晚频道" tvg-logo="https://livecdn.zbds.org/logo/2002年春晚.png",2002年春晚
+https://alimov2.a.kwimgs.com/upic/2023/01/13/21/BMjAyMzAxMTMyMTE4MzRfNDAzMDAxOTlfOTM1MDY4ODIxNDdfMF8z_b_Ba6271d10b7e6cfae83759033a091f257.mp4
+#EXTINF:-1 group-title="春晚频道" tvg-logo="https://livecdn.zbds.org/logo/2003年春晚.png",2003年春晚
+https://alimov2.a.kwimgs.com/upic/2023/01/14/23/BMjAyMzAxMTQyMzQxNDdfNDAzMDAxOTlfOTM2MTU0MTk1NDFfMF8z_b_B182749d2cd2ea9323639254af385f24b.mp4
+#EXTINF:-1 group-title="春晚频道" tvg-logo="https://livecdn.zbds.org/logo/2004年春晚.png",2004年春晚
+https://alimov2.a.kwimgs.com/upic/2023/01/13/21/BMjAyMzAxMTMyMTE4MzRfNDAzMDAxOTlfOTM1MDY4ODIxOTVfMF8z_b_B86c4430b82ff5a7f4e8132f6ee558536.mp4
+#EXTINF:-1 group-title="春晚频道" tvg-logo="https://livecdn.zbds.org/logo/2005年春晚.png",2005年春晚
+https://alimov2.a.kwimgs.com/upic/2023/01/13/20/BMjAyMzAxMTMyMDA5MjJfNDAzMDAxOTlfOTM0OTkwNDQyMzhfMF8z_b_B35ad7cc86aec8fc9e5ddfb31fc7bed63.mp4
+#EXTINF:-1 group-title="春晚频道" tvg-logo="https://livecdn.zbds.org/logo/2006年春晚.png",2006年春晚
+https://alimov2.a.kwimgs.com/upic/2023/01/13/20/BMjAyMzAxMTMyMDA5MjJfNDAzMDAxOTlfOTM0OTkwNDQyNzlfMF8z_b_Bbc3703fc331dc994c50859c19aad28ff.mp4
+#EXTINF:-1 group-title="春晚频道" tvg-logo="https://livecdn.zbds.org/logo/2007年春晚.png",2007年春晚
+https://alimov2.a.kwimgs.com/upic/2023/01/13/20/BMjAyMzAxMTMyMDA5MjJfNDAzMDAxOTlfOTM0OTkwNDQzMjNfMF8z_b_B00b069c7899976459ceeaa99353dfefe.mp4
+#EXTINF:-1 group-title="春晚频道" tvg-logo="https://livecdn.zbds.org/logo/2009年春晚.png",2009年春晚
+https://alimov2.a.kwimgs.com/upic/2023/01/13/20/BMjAyMzAxMTMyMDA5MjJfNDAzMDAxOTlfOTM0OTkwNDQzOTBfMF8z_b_B29a36a85e0277f6c2a1f033ef7c10708.mp4
+#EXTINF:-1 group-title="春晚频道" tvg-logo="https://livecdn.zbds.org/logo/2010年春晚.png",2010年春晚
+https://alimov2.a.kwimgs.com/upic/2023/01/13/20/BMjAyMzAxMTMyMDA5MjJfNDAzMDAxOTlfOTM0OTkwNDQ0MjlfMF8z_b_B8818807a00eed329a69fb494f405bd43.mp4
+#EXTINF:-1 group-title="春晚频道" tvg-logo="https://livecdn.zbds.org/logo/2013年春晚.png",2013年春晚
+https://alimov2.a.kwimgs.com/upic/2023/01/13/20/BMjAyMzAxMTMyMDA5MjJfNDAzMDAxOTlfOTM0OTkwNDQ1NjNfMF8z_b_B4fea55408dca4471a68a963ae096be59.mp4
+#EXTINF:-1 group-title="春晚频道" tvg-logo="https://livecdn.zbds.org/logo/2014年春晚.png",2014年春晚
+https://alimov2.a.kwimgs.com/upic/2023/01/06/16/BMjAyMzAxMDYxNjMxMTNfNDAzMDAxOTlfOTI4OTY2ODAzNjlfMF8z_b_Bdee65c77f9e7b2120a185c919dad81d2.mp4
+#EXTINF:-1 group-title="春晚频道" tvg-logo="https://livecdn.zbds.org/logo/2018年春晚.png",2018年春晚
+https://alimov2.a.kwimgs.com/upic/2023/01/06/16/BMjAyMzAxMDYxNjMxMTRfNDAzMDAxOTlfOTI4OTY2ODE2MTBfMF8z_b_B11a778e34390a21de42d407e94f45b91.mp4
+#EXTINF:-1 group-title="春晚频道" tvg-logo="https://livecdn.zbds.org/logo/2024年春晚.png",2024年春晚
+https://p2.bdstatic.com/rtmp.liveshow.lss-user.baidubce.com/live/stream_bduid_6488563992_8982723413/merged_1707497046297_88536_25144_41936.m3u8
+#EXTINF:-1 group-title="春晚频道" tvg-logo="https://livecdn.zbds.org/logo/2025年春晚.png",2025年春晚
+https://svipsvip.ffzyread1.com/20250129/35458_c988286f/index.m3u8
